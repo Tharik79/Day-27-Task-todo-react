@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To Do task. Add New Random Task with the Add button is clicked. When the Close button is clicked remove the task. https://www.bootdey.com/snippets/view/bs4-todo-list
+
 ## Available Scripts
 
 In the project directory, you can run:
